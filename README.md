@@ -12,6 +12,11 @@
 - **Discord:** [MaorL3vy](https://discord.com/users/751477884933374103)
 - **Learning:** Kali Linux
 
+<style>
+  body {
+    font-family: 'Lucida Handwriting', cursive;
+  }
+</style>
 ---
 
 <div style="text-align: center;">
