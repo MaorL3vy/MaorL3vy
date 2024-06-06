@@ -7,6 +7,7 @@
 - **Age:** 15
 - **Experience:** 2.5 years in programming
 - **Discord:** [MaorL3vy](https://discord.com/users/751477884933374103)
+- **Learning:** Kali Linux
 
 ---
 
