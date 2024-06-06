@@ -17,33 +17,32 @@
 <div style="text-align: center;">
   <h2 style="color: #008080;">🚀 Skills & Tools:</h2>
   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <div style="margin: 10px; position: relative;">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="filter: grayscale(100%);">
-      <span style="position: absolute; top: -30px; left: 50%; transform: translateX(-50%); background-color: #333; color: #fff; padding: 5px 10px; border-radius: 5px; opacity: 0; transition: opacity 0.3s;">JavaScript</span>
+    <div style="margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="width: 50px;">
+      <span style="display: none;">JavaScript</span>
     </div>
-    <div style="margin: 10px; position: relative;">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" style="filter: grayscale(100%);">
-      <span style="position: absolute; top: -30px; left: 50%; transform: translateX(-50%); background-color: #333; color: #fff; padding: 5px 10px; border-radius: 5px; opacity: 0; transition: opacity 0.3s;">HTML</span>
+    <div style="margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" style="width: 50px;">
+      <span style="display: none;">HTML</span>
     </div>
-    <div style="margin: 10px; position: relative;">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" style="filter: grayscale(100%);">
-      <span style="position: absolute; top: -30px; left: 50%; transform: translateX(-50%); background-color: #333; color: #fff; padding: 5px 10px; border-radius: 5px; opacity: 0; transition: opacity 0.3s;">CSS</span>
+    <div style="margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" style="width: 50px;">
+      <span style="display: none;">CSS</span>
     </div>
-    <div style="margin: 10px; position: relative;">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" style="filter: grayscale(100%);">
-      <span style="position: absolute; top: -30px; left: 50%; transform: translateX(-50%); background-color: #333; color: #fff; padding: 5px 10px; border-radius: 5px; opacity: 0; transition: opacity 0.3s;">React</span>
+    <div style="margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" style="width: 50px;">
+      <span style="display: none;">React</span>
     </div>
-    <div style="margin: 10px; position: relative;">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="filter: grayscale(100%);">
-      <span style="position: absolute; top: -30px; left: 50%; transform: translateX(-50%); background-color: #333; color: #fff; padding: 5px 10px; border-radius: 5px; opacity: 0; transition: opacity 0.3s;">MySQL</span>
+    <div style="margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="width: 50px;">
+      <span style="display: none;">MySQL</span>
     </div>
-    <div style="margin: 10px; position: relative;">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" style="filter: grayscale(100%);">
-      <span style="position: absolute; top: -30px; left: 50%; transform: translateX(-50%); background-color: #333; color: #fff; padding: 5px 10px; border-radius: 5px; opacity: 0; transition: opacity 0.3s;">PHP</span>
+    <div style="margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" style="width: 50px;">
+      <span style="display: none;">PHP</span>
     </div>
   </div>
 </div>
-
 
 ### 📊 GitHub Stats:
 <div style="text-align: center;">
