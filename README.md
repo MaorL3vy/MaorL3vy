@@ -14,35 +14,30 @@
 
 ---
 
-<div style="text-align: center;">
-  <h2 style="color: #008080;">🚀 Skills & Tools:</h2>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <div style="margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="width: 50px;">
-      <span style="display: none;"></span>
-    </div>
-    <div style="margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" style="width: 50px;">
-      <span style="display: none;"></span>
-    </div>
-    <div style="margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" style="width: 50px;">
-      <span style="display: none;"></span>
-    </div>
-    <div style="margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" style="width: 50px;">
-      <span style="display: none;"></span>
-    </div>
-    <div style="margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="width: 50px;">
-      <span style="display: none;"></span>
-    </div>
-    <div style="margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" style="width: 50px;">
-      <span style="display: none;"></span>
-    </div>
-  </div>
-</div>
+# 🚀 My Epic Tech Arsenal 🚀
+
+## 🖥️ Battle Station OS
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) The battlefield runs on Windows!
+
+## 🛢️ Data Strongholds
+
+### SQL Fortresses
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) Where structured data finds its stronghold.
+- - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) For the unstructured and dynamic data domains.
+
+
+## 👨‍💻 Codecrafting Arsenal
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) The magical language of interactivity and dynamism.
+
+## 🛠️ Toolsmithy
+- ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) The mighty forge where code is crafted and honed.
+- ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) The anvil upon which projects take shape.
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) The spellbook for weaving enchanting user interfaces.
+
+## 🛠️ Auxiliary Arsenal
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) The cloak and dagger of version control.
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) The secret lair where collaborative efforts converge.
+- ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) The eclipse, guiding light through the darkest of coding nights.
 
 ### 📊 GitHub Stats:
 <div style="text-align: center;">
