@@ -1,6 +1,5 @@
 <div style="text-align: center;">
   <h1 style="font-size: 2.5em; color: #ff00ff;"><b>Hey there, I'm Maor!</b></h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Hello GIF">
 </div>
 
 ---
