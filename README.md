@@ -26,3 +26,5 @@
 <div style="text-align: center;">
   <img src="https://komarev.com/ghpvc/?username=MaorL3vy&style=flat-square" alt="Profile views">
 </div>
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arudev69&layout=compact&theme=tokyonight)
