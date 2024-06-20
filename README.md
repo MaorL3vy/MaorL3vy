@@ -6,7 +6,7 @@
 
 ### 🌟 About Me:
 - **Name:** *Maor*
-- **Age:** *15*w
+- **Age:** *15*
 - **Experience:** *2.6 years in programming*
 - **Discord:** [*MaorL3vy*](https://discord.com/users/751477884933374103)
 - **Learning:** *Kali Linux*
