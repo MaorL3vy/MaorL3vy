@@ -41,13 +41,5 @@
   <img src="https://komarev.com/ghpvc/?username=MaorL3vy&style=flat-square" alt="Profile views">
 </div>
 
----
-<div style="text-align: center;">
-    <h2>Discord</h2>
-    <a href="https://discord.com/users/751477884933374103">
-        <img src="https://lanyard.cnrad.dev/api/751477884933374103" alt="Discord User">
-    </a>
-</div>
----
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arudev69&layout=compact&theme=tokyonight)
