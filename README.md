@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <h1 style="font-size: 2.5em; color: #ff00ff;"><b>Hey there, I'm Maor!</b></h1>
+  <h1 style="font-size: 2.5em; color: #ff00ff;"><b>Hello there, I'm Maor</b></h1>
 </div>
 
 ---
